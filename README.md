@@ -1,5 +1,4 @@
 # Euro-Area-Bank-Profitability-KPIs-Analysis-2019-2024
-# Euro-Area Banking Case Study (2019–2024)
 
 This repository contains the analysis of the euro-area banking sector between **2019 and 2024**.  
 The study focuses on financial stability, profitability, and risk management, using data from **BankFocus** and applying standardized selection criteria to ensure consistency across 18 euro-area countries.
